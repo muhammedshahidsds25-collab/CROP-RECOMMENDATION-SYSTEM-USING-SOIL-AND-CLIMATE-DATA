@@ -337,7 +337,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 4. Done — no extra config needed.
 
 ---
-
+Repository maintained for individual academic submission and evaluation.
 
 
 - `artifacts/models.pkl` **must exist** before launching the app.
